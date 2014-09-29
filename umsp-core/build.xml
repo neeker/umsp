@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="build" name="umsp-core">
+	<property environment="env" />
+	<property file="${basedir}/ant.properties" />
+	<path id="project.build.depends">
+		<!-- 此处引入非依赖管理的自定包
+		-->
+	</path>
+	<path id="project.test.depends">
+	    <pathelement location="${jits.sdk.dir}/libs/external/testng.jar"/>
+	    <pathelement location="${jits.sdk.dir}/libs/external/junit.jar"/>
+	</path>
+	<import file="${jits.sdk.dir}/settings/ant/build.xml" />
+</project>

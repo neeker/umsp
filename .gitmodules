@@ -1,0 +1,3 @@
+[submodule "tools/jits-sdk"]
+	path = tools/jits-sdk
+	url = https://github.com/neeker/jits-sdk.git

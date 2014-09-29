@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_23-b05 (Sun Microsystems Inc.)
+Specification-Title: UMSP
+Specification-Version: 4.0
+Specification-Vendor: PartSoft.COM
+Implementation-Title: UMSP
+Implementation-URL: http://www.PartSoft.com/umsp-core
+Implementation-Version: 4.0
+Implementation-Vendor: PartSoft.COM
+
